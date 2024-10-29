@@ -1,0 +1,197 @@
+// ***************************************************************************/ 
+// *   Chichewa Language ny ny_rules                                         *
+// *   Original Author Andy Vladescu, 2024                                   *
+// *   Contact info: andyvladescu770@gmail.com                               *
+// ***************************************************************************/
+// *   This program is free software; you can redistribute it and/or modify  *
+// *   it under the terms of the GNU General Public License as published by  *
+// *   the Free Software Foundation; either version 3 of the License, or     *
+// *   (at your option) any later version.                                   *
+// *                                                                         *
+// *   This program is distributed in the hope that it will be useful,       *
+// *   but WITHOUT ANY WARRANTY; without even the implied warranty of        *
+// *   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the         *
+// *   GNU General Public License for more details.                          *
+// *                                                                         *
+// *   You should have received a copy of the GNU General Public License     *
+// *   along with this program; if not, see:                                 *
+// *               <http://www.gnu.org/licenses/>.                           *
+// ***************************************************************************/
+
+
+// This file is UTF-8 encoded
+
+.group a
+   a       a
+
+.group b
+   b       b
+   bw      bw
+   bz      bZ;
+
+.group c
+   c       tS         // for Chinyanja
+   ch      tS
+
+.group d
+   d       d
+   dw      dw
+   dy      d;
+   dz      dz
+   dzw     dzw
+
+.group e
+   e       e
+
+.group f
+   f       f
+   fw      fw
+   fy      fj
+
+.group g
+   g       g
+   gw      gw
+
+.group h
+   h       h
+
+.group i
+   i       i
+
+.group j
+   j       J
+
+.group k
+   k       k
+   kh      k#
+   khw     kwh
+   kw      kw
+
+.group l
+   l       l.
+   lw      l.w
+
+.group m
+   m       m
+   m'      m?      // used in Chinyanja
+   _)  mb      m-b
+   mb      mb
+   _)  mbw     m-bw
+   mbw     mbw
+   _)  mbz     m-bz;
+   mbz     mbz;
+   _)  mf      m-f
+   mf      mf
+   _) mph     m-p#
+   mph     mp#
+   _) mphw    m-p#wh
+   mphw    mp#wh
+   _) mps     m-pS;
+   mps     mpS;
+   _) mv      m-v
+   mv      mv
+   mw      mw
+   my      mj
+
+.group n
+   n       n
+   _) nd      n-d
+   nd      nd
+   _) ndw     n-dw
+   nd      ndw
+   _) ndy     n-d;
+   ndy        nd;
+   _) ndz     n-dz
+   ndz        ndz
+   _) ng      N-g
+   ng         Ng
+   ng'     N
+   ng'w    Nw
+   _) ngw     N-gw
+   ngw        Ngw
+   _) nj      n-J
+   nj         nJ
+   _) nkh     N-k#
+   nkh     Nk#
+   _) nkhw    N-k#w
+   nkhw       Nk#w
+   _) ns      n-s
+   ns      ns
+   _) nsw     n-sw
+   nsw     nsw
+   _) ntch    n-tS
+   ntch    ntS
+   _) nth     n-t#
+   nth     nt#
+   _) nthw    n-twh
+   nthw    ntwh
+   _) nthy    n-t;h
+   nthy    nt;h
+   ny      n^
+   _) nz      n-z
+   nz      nz
+   _) nzw     n-zw
+   nzw     nzw
+
+.group o
+   o       O
+
+.group p
+   p       p
+   ph      p#
+   phw     p#wh
+   ps      pS;
+   pw      pw
+   py      pj
+
+.group r
+   r       r.
+   rw      r.w
+
+.group s
+   s       s
+   sh      S
+   sw      sw
+
+.group t
+   t       t
+   tch     tS#
+   th      t#
+   ts      ts
+   tsw     tsw
+   tw      tw
+   thw     twh
+   ty      t;
+   tyh     t;h
+
+.group u
+   u       u
+
+.group v
+   v       v
+   vw      vw
+   vy      vj
+
+.group w
+   w       w
+
+.group ŵ
+   ŵ       B
+
+.group y
+   y       j
+
+.group z
+   z       z
+   zw      zw
+   zy      Z
+
+
+.group
+        $        dola
+        %        per.esenti
+
+        *        n^en^ezi
+    *)  * (*
+        **
+   **)  * (_     _::
