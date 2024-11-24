@@ -1,0 +1,79 @@
+//============================================================
+// Tongan
+//============================================================
+
+
+// Vowels
+
+phoneme a
+  vwl starttype #a endtype #a
+  ipa a
+  length 140
+  FMT(vowel/a_5)
+endphoneme
+
+phoneme e
+  vwl starttype #e endtype #e
+  ipa e
+  length 140
+  FMT(vowel/e_mid2)
+endphoneme
+
+phoneme i
+  vwl starttype #i endtype #i
+  ipa i
+  length 140
+  FMT(vowel/i)
+endphoneme
+
+phoneme o
+  vwl starttype #o endtype #o
+  ipa o
+  length 140
+  FMT(vowel/o_mid2)
+endphoneme
+
+phoneme u
+  vwl starttype #u endtype #u
+  ipa u
+  length 140
+  FMT(vowel/u_bck)
+endphoneme
+
+
+// Long vowels
+
+phoneme a
+  vwl starttype #a endtype #a
+  ipa aː
+  length 280
+  FMT(vowel/a_5)
+endphoneme
+
+phoneme e
+  vwl starttype #e endtype #e
+  ipa eː
+  length 280
+  FMT(vowel/e_mid2)
+endphoneme
+
+phoneme i
+  vwl starttype #i endtype #i
+  ipa iː
+  length 280
+  FMT(vowel/i)
+endphoneme
+
+phoneme o
+  vwl starttype #o endtype #o
+  ipa oː
+  length 280
+  FMT(vowel/o_mid2)
+endphoneme
+
+phoneme u
+  vwl starttype #u endtype #u
+  ipa uː
+  length 280
+  FMT(vowel/u_bck)
+endphoneme
